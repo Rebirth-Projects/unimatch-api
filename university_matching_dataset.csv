@@ -1,0 +1,501 @@
+Interests,Skills,Goals,Budget,Location,University Match,Course
+Law,Biomedical Research,Develop medical devices,Low,Pisa,University of Pisa,International Law
+AI,Biomedical Research,Help people with mental health,High,Venice,Ca' Foscari University of Venice,Data Science
+Economics,Graphic Design,Help people with mental health,High,Turin,University of Turin,Microeconomics
+Economics,Legal Analysis,Develop medical devices,Medium,Genoa,University of Genoa,Microeconomics
+Business,Legal Analysis,Design innovative products,High,Bologna,University of Bologna,Finance
+Medicine,Data Science,Help people with mental health,Medium,Rome,LUISS Business School,Pharmacology
+Biotechnology,Legal Analysis,Start a business,Low,Genoa,University of Genoa,Genetic Engineering
+Business,Legal Analysis,Help people with mental health,High,Venice,Ca' Foscari University of Venice,Entrepreneurship
+AI,Mechanical Engineering,Work in healthcare,Medium,Venice,Ca' Foscari University of Venice,Machine Learning
+Arts,Biomedical Research,Work in healthcare,Low,Pisa,University of Pisa,Design
+Business,Marketing,Develop medical devices,Medium,Pisa,University of Pisa,Finance
+Business,Data Science,Work at a tech company,High,Florence,University of Florence,Finance
+Physics,Data Science,Start a business,Low,Venice,Ca' Foscari University of Venice,Astrophysics
+Economics,Graphic Design,Help people with mental health,Medium,Genoa,University of Genoa,Macroeconomics
+Engineering,Mechanical Engineering,Develop medical devices,Low,Pisa,University of Pisa,Civil Engineering
+Law,Python,Conduct economic research,High,Rome,Roma Tre University,Corporate Law
+Engineering,Mechanical Engineering,Develop medical devices,Medium,Genoa,University of Genoa,Electrical Engineering
+Psychology,Data Science,Work in healthcare,High,Venice,Ca' Foscari University of Venice,Cognitive Neuroscience
+Biotechnology,Biomedical Research,Work in healthcare,Medium,Naples,University of Naples Federico II,Biopharmaceuticals
+Biotechnology,Financial Analysis,Work at a tech company,High,Bologna,University of Bologna,Biopharmaceuticals
+Business,Financial Analysis,Become a lawyer,Medium,Bologna,University of Bologna,Finance
+Arts,Financial Analysis,Work at a tech company,Medium,Venice,Ca' Foscari University of Venice,Design
+Law,Counseling,Conduct economic research,High,Rome,LUISS Business School,Corporate Law
+Law,Mechanical Engineering,Start a business,Medium,Florence,University of Florence,Corporate Law
+Economics,Mechanical Engineering,Become a lawyer,Medium,Naples,University of Naples Federico II,Microeconomics
+Business,Legal Analysis,Work at a tech company,Low,Turin,University of Turin,Finance
+AI,Graphic Design,Develop medical devices,Low,Milan,Bocconi University,Data Science
+Medicine,Mechanical Engineering,Help people with mental health,Medium,Bologna,University of Bologna,Pharmacology
+Physics,Legal Analysis,Work in healthcare,Low,Bologna,University of Bologna,Quantum Mechanics
+Psychology,Mechanical Engineering,Help people with mental health,Low,Pisa,University of Pisa,Clinical Psychology
+AI,Mechanical Engineering,Develop medical devices,Low,Florence,University of Florence,Artificial Intelligence
+Psychology,Graphic Design,Work at a tech company,High,Bologna,University of Bologna,Clinical Psychology
+AI,Counseling,Develop medical devices,High,Venice,Ca' Foscari University of Venice,Machine Learning
+Business,Graphic Design,Design innovative products,Medium,Milan,Bocconi University,Business Administration
+Business,Marketing,Become a lawyer,High,Venice,Ca' Foscari University of Venice,Entrepreneurship
+Biotechnology,Marketing,Start a business,High,Genoa,University of Genoa,Genetic Engineering
+Arts,Counseling,Become a lawyer,Medium,Pisa,University of Pisa,Fine Arts
+Law,Financial Analysis,Help people with mental health,Medium,Bologna,University of Bologna,Criminal Law
+Medicine,Financial Analysis,Become a lawyer,High,Milan,University of Milan,Surgery
+Economics,Biomedical Research,Work at a tech company,Low,Naples,University of Naples Federico II,Macroeconomics
+Biotechnology,Counseling,Design innovative products,Low,Florence,University of Florence,Biopharmaceuticals
+Engineering,Python,Work in healthcare,Low,Bologna,University of Bologna,Civil Engineering
+Medicine,Marketing,Help people with mental health,Medium,Turin,Politecnico di Torino,Pharmacology
+Medicine,Marketing,Work at a tech company,Low,Genoa,University of Genoa,General Medicine
+Business,Python,Conduct economic research,Medium,Milan,Politecnico di Milano,Business Administration
+Business,Graphic Design,Become a lawyer,Low,Rome,LUISS Business School,Entrepreneurship
+Engineering,Mechanical Engineering,Start a business,High,Pisa,University of Pisa,Electrical Engineering
+Biotechnology,Counseling,Conduct economic research,Low,Genoa,University of Genoa,Biopharmaceuticals
+Biotechnology,Graphic Design,Design innovative products,Low,Pisa,University of Pisa,Genetic Engineering
+Economics,Data Science,Start a business,Medium,Milan,Bocconi University,Macroeconomics
+Arts,Data Science,Become a lawyer,High,Rome,Roma Tre University,Fine Arts
+Business,Graphic Design,Work in healthcare,High,Naples,University of Naples Federico II,Finance
+Arts,Legal Analysis,Start a business,Low,Venice,Ca' Foscari University of Venice,Music
+Psychology,Mechanical Engineering,Conduct economic research,Low,Rome,Roma Tre University,Cognitive Neuroscience
+Arts,Financial Analysis,Work in healthcare,Medium,Milan,University of Milan,Design
+Physics,Data Science,Conduct economic research,Low,Venice,Ca' Foscari University of Venice,Astrophysics
+Arts,Data Science,Develop medical devices,Medium,Rome,Sapienza University of Rome,Design
+Physics,Counseling,Develop medical devices,High,Turin,Politecnico di Torino,Astrophysics
+Law,Graphic Design,Work at a tech company,High,Venice,Ca' Foscari University of Venice,Criminal Law
+AI,Legal Analysis,Start a business,Low,Pisa,University of Pisa,Machine Learning
+Business,Counseling,Design innovative products,Medium,Pisa,University of Pisa,Entrepreneurship
+AI,Graphic Design,Become a lawyer,Low,Turin,University of Turin,Artificial Intelligence
+Business,Graphic Design,Work in healthcare,High,Venice,Ca' Foscari University of Venice,Entrepreneurship
+Psychology,Marketing,Work in healthcare,Medium,Turin,Politecnico di Torino,Clinical Psychology
+Physics,Graphic Design,Help people with mental health,Low,Genoa,University of Genoa,Quantum Mechanics
+Biotechnology,Mechanical Engineering,Start a business,High,Milan,Bocconi University,Genetic Engineering
+Law,Python,Help people with mental health,Low,Venice,Ca' Foscari University of Venice,International Law
+Medicine,Counseling,Work at a tech company,Medium,Genoa,University of Genoa,Surgery
+Biotechnology,Marketing,Become a lawyer,High,Milan,Politecnico di Milano,Biopharmaceuticals
+Law,Counseling,Help people with mental health,Medium,Bologna,University of Bologna,Criminal Law
+Psychology,Legal Analysis,Design innovative products,Medium,Rome,LUISS Business School,Cognitive Neuroscience
+Physics,Data Science,Help people with mental health,Low,Pisa,University of Pisa,Astrophysics
+Economics,Mechanical Engineering,Develop medical devices,Medium,Bologna,University of Bologna,Microeconomics
+Physics,Financial Analysis,Design innovative products,Low,Milan,Bocconi University,Quantum Mechanics
+Economics,Counseling,Help people with mental health,Low,Turin,University of Turin,Microeconomics
+Economics,Legal Analysis,Work at a tech company,Medium,Rome,LUISS Business School,Microeconomics
+Biotechnology,Marketing,Help people with mental health,Medium,Rome,LUISS Business School,Genetic Engineering
+Arts,Graphic Design,Design innovative products,High,Turin,University of Turin,Music
+Economics,Biomedical Research,Conduct economic research,Low,Pisa,University of Pisa,Microeconomics
+Biotechnology,Graphic Design,Become a lawyer,Low,Rome,LUISS Business School,Genetic Engineering
+Biotechnology,Financial Analysis,Become a lawyer,Low,Turin,University of Turin,Genetic Engineering
+Biotechnology,Legal Analysis,Conduct economic research,High,Genoa,University of Genoa,Biopharmaceuticals
+Business,Financial Analysis,Help people with mental health,High,Milan,University of Milan,Finance
+Economics,Data Science,Design innovative products,Low,Venice,Ca' Foscari University of Venice,Macroeconomics
+Physics,Python,Develop medical devices,Medium,Rome,Roma Tre University,Astrophysics
+Medicine,Counseling,Work at a tech company,High,Florence,University of Florence,Pharmacology
+Arts,Marketing,Work in healthcare,High,Turin,University of Turin,Music
+Economics,Financial Analysis,Work in healthcare,Low,Bologna,University of Bologna,Macroeconomics
+Arts,Counseling,Conduct economic research,Medium,Florence,University of Florence,Fine Arts
+Business,Biomedical Research,Help people with mental health,Low,Milan,University of Milan,Finance
+Psychology,Financial Analysis,Work in healthcare,Medium,Genoa,University of Genoa,Clinical Psychology
+Medicine,Python,Work at a tech company,Medium,Turin,University of Turin,General Medicine
+Law,Python,Start a business,High,Venice,Ca' Foscari University of Venice,International Law
+Law,Data Science,Become a lawyer,Low,Genoa,University of Genoa,International Law
+Law,Legal Analysis,Help people with mental health,Low,Bologna,University of Bologna,Criminal Law
+Law,Graphic Design,Work at a tech company,High,Pisa,University of Pisa,International Law
+AI,Graphic Design,Work in healthcare,Medium,Bologna,University of Bologna,Artificial Intelligence
+Physics,Biomedical Research,Work at a tech company,High,Venice,Ca' Foscari University of Venice,Quantum Mechanics
+Medicine,Legal Analysis,Develop medical devices,Low,Florence,University of Florence,Pharmacology
+AI,Data Science,Become a lawyer,Medium,Genoa,University of Genoa,Artificial Intelligence
+Arts,Financial Analysis,Develop medical devices,Medium,Turin,University of Turin,Music
+Biotechnology,Mechanical Engineering,Develop medical devices,High,Naples,University of Naples Federico II,Biopharmaceuticals
+Psychology,Data Science,Develop medical devices,High,Florence,University of Florence,Cognitive Neuroscience
+Law,Legal Analysis,Help people with mental health,Medium,Pisa,University of Pisa,Criminal Law
+Biotechnology,Marketing,Develop medical devices,Low,Florence,University of Florence,Biopharmaceuticals
+Business,Graphic Design,Conduct economic research,High,Pisa,University of Pisa,Entrepreneurship
+Medicine,Marketing,Design innovative products,Low,Venice,Ca' Foscari University of Venice,General Medicine
+Biotechnology,Data Science,Conduct economic research,Low,Bologna,University of Bologna,Biopharmaceuticals
+Medicine,Graphic Design,Become a lawyer,High,Bologna,University of Bologna,Pharmacology
+AI,Mechanical Engineering,Help people with mental health,Low,Turin,Politecnico di Torino,Data Science
+Physics,Marketing,Work at a tech company,Medium,Milan,Bocconi University,Quantum Mechanics
+Economics,Financial Analysis,Conduct economic research,Medium,Turin,University of Turin,Microeconomics
+Law,Python,Design innovative products,Low,Bologna,University of Bologna,Criminal Law
+Law,Counseling,Become a lawyer,Medium,Bologna,University of Bologna,Corporate Law
+Biotechnology,Python,Help people with mental health,Medium,Venice,Ca' Foscari University of Venice,Genetic Engineering
+AI,Graphic Design,Start a business,High,Genoa,University of Genoa,Artificial Intelligence
+AI,Marketing,Design innovative products,Medium,Rome,LUISS Business School,Data Science
+AI,Graphic Design,Become a lawyer,High,Bologna,University of Bologna,Artificial Intelligence
+Arts,Counseling,Work in healthcare,High,Pisa,University of Pisa,Fine Arts
+Arts,Biomedical Research,Start a business,Medium,Milan,Bocconi University,Music
+Engineering,Data Science,Design innovative products,Low,Bologna,University of Bologna,Mechanical Engineering
+Physics,Marketing,Help people with mental health,High,Bologna,University of Bologna,Quantum Mechanics
+Physics,Biomedical Research,Work in healthcare,Low,Turin,Politecnico di Torino,Quantum Mechanics
+Psychology,Python,Conduct economic research,Low,Milan,Politecnico di Milano,Cognitive Neuroscience
+Arts,Counseling,Design innovative products,Low,Genoa,University of Genoa,Fine Arts
+AI,Mechanical Engineering,Design innovative products,Medium,Bologna,University of Bologna,Artificial Intelligence
+Medicine,Data Science,Work in healthcare,High,Genoa,University of Genoa,Surgery
+Biotechnology,Data Science,Conduct economic research,High,Rome,Roma Tre University,Genetic Engineering
+Arts,Marketing,Develop medical devices,Medium,Venice,Ca' Foscari University of Venice,Fine Arts
+Biotechnology,Python,Conduct economic research,Medium,Venice,Ca' Foscari University of Venice,Biopharmaceuticals
+Arts,Python,Conduct economic research,High,Turin,Politecnico di Torino,Fine Arts
+Arts,Biomedical Research,Become a lawyer,Low,Genoa,University of Genoa,Fine Arts
+Business,Counseling,Conduct economic research,Low,Bologna,University of Bologna,Finance
+Law,Biomedical Research,Start a business,Medium,Turin,Politecnico di Torino,Criminal Law
+Medicine,Graphic Design,Conduct economic research,Medium,Genoa,University of Genoa,General Medicine
+Physics,Graphic Design,Become a lawyer,Low,Rome,LUISS Business School,Astrophysics
+Psychology,Financial Analysis,Become a lawyer,High,Turin,University of Turin,Clinical Psychology
+Medicine,Counseling,Design innovative products,Low,Venice,Ca' Foscari University of Venice,Surgery
+Medicine,Biomedical Research,Start a business,Low,Genoa,University of Genoa,Pharmacology
+Law,Biomedical Research,Start a business,Low,Rome,LUISS Business School,International Law
+Arts,Counseling,Become a lawyer,Low,Venice,Ca' Foscari University of Venice,Fine Arts
+Arts,Data Science,Start a business,Medium,Venice,Ca' Foscari University of Venice,Music
+AI,Mechanical Engineering,Start a business,Low,Naples,University of Naples Federico II,Artificial Intelligence
+Business,Biomedical Research,Start a business,Low,Florence,University of Florence,Finance
+Engineering,Biomedical Research,Become a lawyer,Low,Turin,Politecnico di Torino,Electrical Engineering
+Arts,Counseling,Start a business,Low,Venice,Ca' Foscari University of Venice,Music
+Law,Python,Conduct economic research,High,Florence,University of Florence,International Law
+Biotechnology,Mechanical Engineering,Become a lawyer,Low,Milan,Bocconi University,Genetic Engineering
+Psychology,Data Science,Conduct economic research,Low,Pisa,University of Pisa,Clinical Psychology
+Business,Financial Analysis,Work in healthcare,Medium,Florence,University of Florence,Entrepreneurship
+Physics,Marketing,Design innovative products,Low,Turin,Politecnico di Torino,Quantum Mechanics
+Biotechnology,Legal Analysis,Work at a tech company,Medium,Rome,Roma Tre University,Biopharmaceuticals
+Business,Marketing,Design innovative products,Medium,Genoa,University of Genoa,Business Administration
+Biotechnology,Legal Analysis,Work at a tech company,High,Naples,University of Naples Federico II,Biopharmaceuticals
+Economics,Graphic Design,Help people with mental health,Medium,Pisa,University of Pisa,Microeconomics
+Psychology,Biomedical Research,Work in healthcare,High,Turin,Politecnico di Torino,Cognitive Neuroscience
+Medicine,Graphic Design,Help people with mental health,Low,Turin,Politecnico di Torino,General Medicine
+Biotechnology,Graphic Design,Conduct economic research,Low,Florence,University of Florence,Biopharmaceuticals
+Medicine,Financial Analysis,Start a business,Low,Turin,Politecnico di Torino,General Medicine
+AI,Python,Start a business,Medium,Bologna,University of Bologna,Data Science
+Arts,Financial Analysis,Work in healthcare,Medium,Milan,Bocconi University,Fine Arts
+Medicine,Biomedical Research,Design innovative products,High,Turin,University of Turin,Pharmacology
+Business,Counseling,Conduct economic research,High,Florence,University of Florence,Entrepreneurship
+AI,Biomedical Research,Become a lawyer,High,Rome,Roma Tre University,Machine Learning
+Law,Biomedical Research,Start a business,Medium,Naples,University of Naples Federico II,Corporate Law
+Engineering,Marketing,Work in healthcare,High,Venice,Ca' Foscari University of Venice,Civil Engineering
+Psychology,Biomedical Research,Help people with mental health,High,Pisa,University of Pisa,Clinical Psychology
+Law,Financial Analysis,Work in healthcare,Low,Venice,Ca' Foscari University of Venice,Criminal Law
+Business,Python,Conduct economic research,Medium,Rome,Roma Tre University,Finance
+Psychology,Graphic Design,Conduct economic research,Low,Rome,LUISS Business School,Clinical Psychology
+Medicine,Financial Analysis,Help people with mental health,Medium,Genoa,University of Genoa,Surgery
+Law,Biomedical Research,Design innovative products,Low,Pisa,University of Pisa,Corporate Law
+Arts,Financial Analysis,Work in healthcare,Low,Naples,University of Naples Federico II,Fine Arts
+Business,Biomedical Research,Work at a tech company,Medium,Florence,University of Florence,Entrepreneurship
+Law,Python,Become a lawyer,Low,Milan,Bocconi University,Criminal Law
+Business,Data Science,Work in healthcare,Medium,Turin,University of Turin,Entrepreneurship
+Psychology,Legal Analysis,Become a lawyer,Low,Milan,University of Milan,Cognitive Neuroscience
+AI,Marketing,Work in healthcare,Medium,Bologna,University of Bologna,Data Science
+Law,Financial Analysis,Develop medical devices,Medium,Bologna,University of Bologna,Criminal Law
+Law,Biomedical Research,Become a lawyer,High,Naples,University of Naples Federico II,Corporate Law
+Arts,Financial Analysis,Work at a tech company,Low,Florence,University of Florence,Music
+Medicine,Graphic Design,Conduct economic research,Low,Milan,University of Milan,Pharmacology
+Biotechnology,Data Science,Conduct economic research,High,Naples,University of Naples Federico II,Genetic Engineering
+AI,Data Science,Work at a tech company,Medium,Rome,LUISS Business School,Data Science
+Physics,Financial Analysis,Become a lawyer,High,Turin,University of Turin,Quantum Mechanics
+Medicine,Biomedical Research,Become a lawyer,Medium,Turin,University of Turin,Surgery
+Psychology,Legal Analysis,Become a lawyer,High,Bologna,University of Bologna,Cognitive Neuroscience
+Law,Counseling,Work in healthcare,High,Milan,University of Milan,Criminal Law
+Engineering,Marketing,Start a business,High,Rome,Sapienza University of Rome,Civil Engineering
+Biotechnology,Legal Analysis,Work in healthcare,Medium,Rome,Sapienza University of Rome,Biopharmaceuticals
+Psychology,Legal Analysis,Start a business,Low,Milan,Politecnico di Milano,Cognitive Neuroscience
+Biotechnology,Graphic Design,Work in healthcare,High,Bologna,University of Bologna,Biopharmaceuticals
+Business,Marketing,Become a lawyer,High,Naples,University of Naples Federico II,Business Administration
+Engineering,Legal Analysis,Start a business,High,Pisa,University of Pisa,Electrical Engineering
+Engineering,Graphic Design,Design innovative products,Low,Pisa,University of Pisa,Civil Engineering
+Biotechnology,Python,Work at a tech company,High,Turin,University of Turin,Biopharmaceuticals
+Law,Mechanical Engineering,Work in healthcare,Low,Florence,University of Florence,International Law
+AI,Legal Analysis,Work at a tech company,Medium,Florence,University of Florence,Machine Learning
+Economics,Counseling,Help people with mental health,Medium,Florence,University of Florence,Microeconomics
+Medicine,Counseling,Develop medical devices,High,Turin,University of Turin,General Medicine
+Arts,Graphic Design,Develop medical devices,High,Milan,Bocconi University,Music
+Arts,Counseling,Conduct economic research,Medium,Rome,Sapienza University of Rome,Fine Arts
+Physics,Python,Conduct economic research,High,Pisa,University of Pisa,Astrophysics
+Economics,Legal Analysis,Work in healthcare,Medium,Genoa,University of Genoa,Macroeconomics
+Economics,Legal Analysis,Design innovative products,Medium,Rome,LUISS Business School,Microeconomics
+Arts,Mechanical Engineering,Develop medical devices,High,Venice,Ca' Foscari University of Venice,Design
+Business,Legal Analysis,Work in healthcare,Low,Pisa,University of Pisa,Finance
+Medicine,Legal Analysis,Work in healthcare,High,Rome,LUISS Business School,General Medicine
+Psychology,Python,Develop medical devices,High,Turin,Politecnico di Torino,Clinical Psychology
+Economics,Financial Analysis,Design innovative products,Medium,Rome,Sapienza University of Rome,Microeconomics
+Biotechnology,Biomedical Research,Become a lawyer,High,Florence,University of Florence,Biopharmaceuticals
+Medicine,Python,Work in healthcare,Low,Florence,University of Florence,Pharmacology
+Psychology,Biomedical Research,Work in healthcare,Medium,Rome,LUISS Business School,Clinical Psychology
+Engineering,Graphic Design,Work at a tech company,Low,Turin,Politecnico di Torino,Mechanical Engineering
+Engineering,Python,Work in healthcare,Medium,Turin,University of Turin,Mechanical Engineering
+Law,Biomedical Research,Work in healthcare,Low,Rome,Roma Tre University,International Law
+Medicine,Legal Analysis,Design innovative products,Low,Bologna,University of Bologna,Pharmacology
+Medicine,Marketing,Start a business,High,Pisa,University of Pisa,General Medicine
+AI,Python,Become a lawyer,Low,Venice,Ca' Foscari University of Venice,Artificial Intelligence
+Economics,Financial Analysis,Become a lawyer,High,Genoa,University of Genoa,Macroeconomics
+AI,Data Science,Start a business,Low,Venice,Ca' Foscari University of Venice,Artificial Intelligence
+Business,Legal Analysis,Work in healthcare,Low,Naples,University of Naples Federico II,Entrepreneurship
+Law,Marketing,Design innovative products,High,Florence,University of Florence,International Law
+Business,Legal Analysis,Help people with mental health,Medium,Venice,Ca' Foscari University of Venice,Entrepreneurship
+Law,Marketing,Work at a tech company,High,Milan,Bocconi University,Corporate Law
+Medicine,Legal Analysis,Become a lawyer,Medium,Rome,Roma Tre University,Pharmacology
+Arts,Financial Analysis,Become a lawyer,High,Rome,Roma Tre University,Music
+Medicine,Python,Design innovative products,Medium,Turin,Politecnico di Torino,Surgery
+Medicine,Counseling,Conduct economic research,High,Bologna,University of Bologna,Pharmacology
+Engineering,Marketing,Develop medical devices,High,Florence,University of Florence,Civil Engineering
+Business,Counseling,Design innovative products,Medium,Bologna,University of Bologna,Finance
+Arts,Financial Analysis,Become a lawyer,Medium,Turin,Politecnico di Torino,Fine Arts
+Economics,Counseling,Help people with mental health,Medium,Pisa,University of Pisa,Macroeconomics
+Medicine,Python,Become a lawyer,High,Venice,Ca' Foscari University of Venice,General Medicine
+AI,Data Science,Conduct economic research,Medium,Milan,University of Milan,Machine Learning
+Economics,Counseling,Design innovative products,High,Rome,Sapienza University of Rome,Macroeconomics
+Economics,Mechanical Engineering,Conduct economic research,Low,Genoa,University of Genoa,Macroeconomics
+Medicine,Biomedical Research,Conduct economic research,High,Turin,Politecnico di Torino,Surgery
+Law,Counseling,Conduct economic research,High,Naples,University of Naples Federico II,International Law
+Business,Biomedical Research,Develop medical devices,Medium,Florence,University of Florence,Finance
+Biotechnology,Financial Analysis,Work at a tech company,High,Rome,Roma Tre University,Biopharmaceuticals
+Medicine,Marketing,Work at a tech company,Medium,Florence,University of Florence,Pharmacology
+Medicine,Legal Analysis,Become a lawyer,Medium,Bologna,University of Bologna,Surgery
+AI,Graphic Design,Work in healthcare,Medium,Turin,Politecnico di Torino,Data Science
+Biotechnology,Data Science,Conduct economic research,Medium,Pisa,University of Pisa,Genetic Engineering
+Economics,Financial Analysis,Work in healthcare,Medium,Pisa,University of Pisa,Microeconomics
+Engineering,Marketing,Work in healthcare,High,Naples,University of Naples Federico II,Mechanical Engineering
+Biotechnology,Marketing,Help people with mental health,Medium,Turin,Politecnico di Torino,Genetic Engineering
+Engineering,Mechanical Engineering,Develop medical devices,Medium,Rome,Roma Tre University,Mechanical Engineering
+Biotechnology,Marketing,Develop medical devices,Medium,Turin,University of Turin,Genetic Engineering
+Arts,Data Science,Work in healthcare,High,Turin,University of Turin,Music
+Engineering,Legal Analysis,Start a business,Low,Naples,University of Naples Federico II,Mechanical Engineering
+Economics,Data Science,Develop medical devices,Medium,Genoa,University of Genoa,Microeconomics
+Medicine,Biomedical Research,Design innovative products,Low,Naples,University of Naples Federico II,Surgery
+Biotechnology,Graphic Design,Develop medical devices,Low,Bologna,University of Bologna,Biopharmaceuticals
+Economics,Marketing,Help people with mental health,Low,Pisa,University of Pisa,Macroeconomics
+Business,Legal Analysis,Conduct economic research,Medium,Genoa,University of Genoa,Entrepreneurship
+Arts,Graphic Design,Help people with mental health,Low,Milan,Politecnico di Milano,Music
+Psychology,Counseling,Work at a tech company,Low,Naples,University of Naples Federico II,Clinical Psychology
+AI,Biomedical Research,Start a business,High,Pisa,University of Pisa,Machine Learning
+Economics,Financial Analysis,Work in healthcare,Low,Bologna,University of Bologna,Macroeconomics
+Business,Python,Work at a tech company,High,Pisa,University of Pisa,Finance
+Psychology,Mechanical Engineering,Work at a tech company,Medium,Rome,Roma Tre University,Clinical Psychology
+Physics,Python,Develop medical devices,Low,Milan,Bocconi University,Quantum Mechanics
+Engineering,Counseling,Conduct economic research,Medium,Milan,University of Milan,Electrical Engineering
+Biotechnology,Financial Analysis,Become a lawyer,Medium,Turin,Politecnico di Torino,Biopharmaceuticals
+Economics,Legal Analysis,Conduct economic research,Low,Genoa,University of Genoa,Microeconomics
+Business,Mechanical Engineering,Start a business,Low,Pisa,University of Pisa,Finance
+Medicine,Python,Become a lawyer,Medium,Venice,Ca' Foscari University of Venice,General Medicine
+Economics,Mechanical Engineering,Start a business,High,Pisa,University of Pisa,Macroeconomics
+Physics,Data Science,Help people with mental health,High,Rome,Roma Tre University,Astrophysics
+Arts,Legal Analysis,Work in healthcare,Medium,Venice,Ca' Foscari University of Venice,Design
+Economics,Legal Analysis,Start a business,Medium,Genoa,University of Genoa,Microeconomics
+Economics,Legal Analysis,Work in healthcare,Low,Venice,Ca' Foscari University of Venice,Microeconomics
+Engineering,Graphic Design,Conduct economic research,Medium,Venice,Ca' Foscari University of Venice,Civil Engineering
+Physics,Mechanical Engineering,Help people with mental health,High,Genoa,University of Genoa,Quantum Mechanics
+Physics,Financial Analysis,Conduct economic research,Low,Genoa,University of Genoa,Astrophysics
+Physics,Marketing,Become a lawyer,High,Milan,University of Milan,Astrophysics
+Economics,Biomedical Research,Help people with mental health,High,Bologna,University of Bologna,Microeconomics
+Physics,Data Science,Work in healthcare,High,Naples,University of Naples Federico II,Astrophysics
+Biotechnology,Legal Analysis,Design innovative products,Low,Rome,Sapienza University of Rome,Genetic Engineering
+Medicine,Mechanical Engineering,Conduct economic research,High,Genoa,University of Genoa,Surgery
+Arts,Mechanical Engineering,Work at a tech company,High,Pisa,University of Pisa,Design
+Business,Biomedical Research,Work at a tech company,High,Milan,Bocconi University,Business Administration
+AI,Mechanical Engineering,Design innovative products,High,Turin,Politecnico di Torino,Artificial Intelligence
+Business,Data Science,Help people with mental health,High,Turin,Politecnico di Torino,Business Administration
+Law,Graphic Design,Design innovative products,High,Florence,University of Florence,Corporate Law
+Psychology,Graphic Design,Become a lawyer,Medium,Genoa,University of Genoa,Clinical Psychology
+Engineering,Counseling,Work at a tech company,High,Genoa,University of Genoa,Mechanical Engineering
+Economics,Graphic Design,Develop medical devices,High,Florence,University of Florence,Microeconomics
+Engineering,Python,Start a business,High,Florence,University of Florence,Civil Engineering
+Law,Graphic Design,Help people with mental health,Low,Florence,University of Florence,International Law
+Law,Data Science,Help people with mental health,High,Bologna,University of Bologna,Criminal Law
+Arts,Marketing,Conduct economic research,Medium,Naples,University of Naples Federico II,Fine Arts
+Physics,Counseling,Help people with mental health,High,Bologna,University of Bologna,Astrophysics
+AI,Biomedical Research,Work at a tech company,High,Pisa,University of Pisa,Data Science
+Economics,Mechanical Engineering,Conduct economic research,Medium,Pisa,University of Pisa,Macroeconomics
+Engineering,Financial Analysis,Work in healthcare,High,Florence,University of Florence,Electrical Engineering
+Economics,Biomedical Research,Become a lawyer,High,Florence,University of Florence,Macroeconomics
+Economics,Counseling,Work at a tech company,Low,Florence,University of Florence,Macroeconomics
+Physics,Legal Analysis,Develop medical devices,High,Florence,University of Florence,Quantum Mechanics
+Biotechnology,Counseling,Help people with mental health,High,Rome,Sapienza University of Rome,Genetic Engineering
+Psychology,Python,Start a business,High,Genoa,University of Genoa,Clinical Psychology
+Arts,Graphic Design,Help people with mental health,Medium,Turin,Politecnico di Torino,Design
+Biotechnology,Legal Analysis,Become a lawyer,Medium,Rome,Roma Tre University,Genetic Engineering
+Physics,Data Science,Work in healthcare,Medium,Naples,University of Naples Federico II,Quantum Mechanics
+AI,Marketing,Help people with mental health,Low,Rome,Roma Tre University,Artificial Intelligence
+Psychology,Counseling,Design innovative products,Medium,Venice,Ca' Foscari University of Venice,Cognitive Neuroscience
+Engineering,Marketing,Become a lawyer,Low,Pisa,University of Pisa,Electrical Engineering
+AI,Python,Design innovative products,Low,Venice,Ca' Foscari University of Venice,Artificial Intelligence
+AI,Biomedical Research,Conduct economic research,High,Genoa,University of Genoa,Artificial Intelligence
+Biotechnology,Graphic Design,Work at a tech company,Low,Milan,University of Milan,Genetic Engineering
+Business,Biomedical Research,Work at a tech company,High,Genoa,University of Genoa,Finance
+Medicine,Data Science,Work at a tech company,Low,Rome,Sapienza University of Rome,General Medicine
+Arts,Data Science,Help people with mental health,Low,Milan,University of Milan,Design
+Business,Mechanical Engineering,Help people with mental health,Medium,Rome,LUISS Business School,Finance
+Physics,Legal Analysis,Become a lawyer,Low,Naples,University of Naples Federico II,Astrophysics
+Biotechnology,Biomedical Research,Work at a tech company,High,Genoa,University of Genoa,Genetic Engineering
+Business,Financial Analysis,Start a business,High,Pisa,University of Pisa,Entrepreneurship
+Physics,Counseling,Start a business,Medium,Venice,Ca' Foscari University of Venice,Astrophysics
+Psychology,Python,Help people with mental health,Medium,Naples,University of Naples Federico II,Clinical Psychology
+Physics,Data Science,Conduct economic research,Medium,Turin,University of Turin,Quantum Mechanics
+Biotechnology,Data Science,Work in healthcare,Medium,Pisa,University of Pisa,Genetic Engineering
+Biotechnology,Biomedical Research,Work at a tech company,Medium,Pisa,University of Pisa,Genetic Engineering
+Psychology,Legal Analysis,Work in healthcare,Low,Venice,Ca' Foscari University of Venice,Cognitive Neuroscience
+Medicine,Biomedical Research,Develop medical devices,Medium,Florence,University of Florence,Pharmacology
+Economics,Counseling,Start a business,Medium,Bologna,University of Bologna,Macroeconomics
+Physics,Financial Analysis,Become a lawyer,Low,Naples,University of Naples Federico II,Astrophysics
+Law,Financial Analysis,Work in healthcare,Low,Venice,Ca' Foscari University of Venice,Criminal Law
+Medicine,Marketing,Conduct economic research,Medium,Genoa,University of Genoa,Pharmacology
+Medicine,Marketing,Develop medical devices,High,Bologna,University of Bologna,Pharmacology
+Law,Marketing,Work at a tech company,Medium,Rome,Sapienza University of Rome,International Law
+Biotechnology,Legal Analysis,Help people with mental health,High,Pisa,University of Pisa,Genetic Engineering
+Physics,Biomedical Research,Work in healthcare,Low,Venice,Ca' Foscari University of Venice,Quantum Mechanics
+Psychology,Marketing,Design innovative products,Low,Venice,Ca' Foscari University of Venice,Cognitive Neuroscience
+Business,Data Science,Start a business,Low,Pisa,University of Pisa,Business Administration
+Law,Mechanical Engineering,Develop medical devices,Low,Naples,University of Naples Federico II,Criminal Law
+Psychology,Graphic Design,Help people with mental health,Low,Bologna,University of Bologna,Cognitive Neuroscience
+Psychology,Marketing,Design innovative products,Medium,Turin,University of Turin,Clinical Psychology
+Biotechnology,Financial Analysis,Work in healthcare,Medium,Venice,Ca' Foscari University of Venice,Biopharmaceuticals
+Physics,Financial Analysis,Become a lawyer,Medium,Pisa,University of Pisa,Astrophysics
+Psychology,Graphic Design,Design innovative products,Medium,Pisa,University of Pisa,Cognitive Neuroscience
+Physics,Data Science,Design innovative products,Medium,Venice,Ca' Foscari University of Venice,Quantum Mechanics
+Economics,Marketing,Start a business,High,Venice,Ca' Foscari University of Venice,Microeconomics
+Biotechnology,Counseling,Develop medical devices,Low,Rome,LUISS Business School,Biopharmaceuticals
+Engineering,Marketing,Help people with mental health,Medium,Venice,Ca' Foscari University of Venice,Civil Engineering
+Arts,Legal Analysis,Become a lawyer,Medium,Milan,Bocconi University,Design
+Medicine,Counseling,Design innovative products,High,Naples,University of Naples Federico II,Pharmacology
+Biotechnology,Python,Conduct economic research,Medium,Pisa,University of Pisa,Genetic Engineering
+Business,Counseling,Become a lawyer,High,Venice,Ca' Foscari University of Venice,Business Administration
+Law,Mechanical Engineering,Help people with mental health,Medium,Rome,Roma Tre University,Corporate Law
+Business,Data Science,Work in healthcare,High,Venice,Ca' Foscari University of Venice,Entrepreneurship
+Law,Marketing,Conduct economic research,Medium,Naples,University of Naples Federico II,Corporate Law
+Medicine,Graphic Design,Work in healthcare,Medium,Turin,Politecnico di Torino,Pharmacology
+Law,Graphic Design,Conduct economic research,Medium,Milan,University of Milan,Criminal Law
+Economics,Graphic Design,Design innovative products,Low,Bologna,University of Bologna,Macroeconomics
+Business,Biomedical Research,Help people with mental health,Low,Turin,University of Turin,Business Administration
+Engineering,Python,Design innovative products,High,Bologna,University of Bologna,Mechanical Engineering
+Medicine,Legal Analysis,Help people with mental health,High,Turin,University of Turin,General Medicine
+Arts,Data Science,Design innovative products,Low,Turin,Politecnico di Torino,Design
+Business,Graphic Design,Work in healthcare,Medium,Milan,Bocconi University,Business Administration
+Business,Graphic Design,Design innovative products,High,Bologna,University of Bologna,Business Administration
+Medicine,Graphic Design,Design innovative products,Medium,Rome,Roma Tre University,Surgery
+Psychology,Graphic Design,Become a lawyer,High,Florence,University of Florence,Clinical Psychology
+Engineering,Data Science,Conduct economic research,Low,Venice,Ca' Foscari University of Venice,Civil Engineering
+Medicine,Legal Analysis,Work at a tech company,High,Rome,Sapienza University of Rome,Pharmacology
+AI,Financial Analysis,Design innovative products,High,Pisa,University of Pisa,Artificial Intelligence
+Economics,Legal Analysis,Help people with mental health,High,Turin,Politecnico di Torino,Macroeconomics
+Business,Graphic Design,Develop medical devices,Low,Bologna,University of Bologna,Business Administration
+AI,Graphic Design,Work in healthcare,High,Bologna,University of Bologna,Data Science
+Business,Marketing,Design innovative products,Low,Bologna,University of Bologna,Business Administration
+AI,Data Science,Work in healthcare,Low,Naples,University of Naples Federico II,Machine Learning
+Physics,Graphic Design,Design innovative products,Medium,Turin,Politecnico di Torino,Quantum Mechanics
+Law,Biomedical Research,Work at a tech company,Low,Florence,University of Florence,International Law
+Law,Mechanical Engineering,Start a business,High,Naples,University of Naples Federico II,International Law
+Engineering,Marketing,Work at a tech company,Low,Turin,Politecnico di Torino,Electrical Engineering
+Law,Python,Become a lawyer,Medium,Milan,Bocconi University,International Law
+Arts,Mechanical Engineering,Become a lawyer,Medium,Milan,Bocconi University,Fine Arts
+Medicine,Counseling,Become a lawyer,Low,Florence,University of Florence,Surgery
+Business,Counseling,Conduct economic research,High,Turin,University of Turin,Business Administration
+Economics,Financial Analysis,Work in healthcare,Medium,Naples,University of Naples Federico II,Macroeconomics
+Biotechnology,Financial Analysis,Help people with mental health,Low,Turin,University of Turin,Genetic Engineering
+Physics,Python,Work at a tech company,Low,Naples,University of Naples Federico II,Quantum Mechanics
+Business,Python,Start a business,Medium,Venice,Ca' Foscari University of Venice,Entrepreneurship
+Business,Counseling,Work in healthcare,Low,Milan,Bocconi University,Business Administration
+Economics,Marketing,Develop medical devices,Medium,Rome,Sapienza University of Rome,Microeconomics
+Law,Graphic Design,Design innovative products,Low,Venice,Ca' Foscari University of Venice,Criminal Law
+Biotechnology,Biomedical Research,Design innovative products,Medium,Genoa,University of Genoa,Genetic Engineering
+Psychology,Counseling,Conduct economic research,Medium,Naples,University of Naples Federico II,Clinical Psychology
+Law,Legal Analysis,Help people with mental health,Low,Milan,University of Milan,Corporate Law
+Biotechnology,Legal Analysis,Work in healthcare,Medium,Venice,Ca' Foscari University of Venice,Genetic Engineering
+Economics,Python,Start a business,Medium,Milan,University of Milan,Microeconomics
+Physics,Mechanical Engineering,Help people with mental health,High,Rome,Roma Tre University,Astrophysics
+Psychology,Biomedical Research,Design innovative products,Low,Genoa,University of Genoa,Cognitive Neuroscience
+AI,Python,Work at a tech company,High,Pisa,University of Pisa,Machine Learning
+Biotechnology,Biomedical Research,Work at a tech company,Medium,Turin,Politecnico di Torino,Genetic Engineering
+Physics,Biomedical Research,Become a lawyer,Low,Florence,University of Florence,Astrophysics
+Biotechnology,Python,Work in healthcare,Medium,Naples,University of Naples Federico II,Biopharmaceuticals
+Economics,Counseling,Conduct economic research,Low,Milan,Bocconi University,Microeconomics
+Law,Legal Analysis,Conduct economic research,Medium,Florence,University of Florence,Criminal Law
+Business,Legal Analysis,Become a lawyer,Low,Venice,Ca' Foscari University of Venice,Business Administration
+Law,Biomedical Research,Help people with mental health,Low,Naples,University of Naples Federico II,International Law
+Business,Graphic Design,Develop medical devices,Medium,Turin,University of Turin,Finance
+Medicine,Mechanical Engineering,Start a business,Medium,Turin,Politecnico di Torino,General Medicine
+Law,Legal Analysis,Help people with mental health,Low,Naples,University of Naples Federico II,International Law
+Engineering,Counseling,Develop medical devices,Medium,Florence,University of Florence,Mechanical Engineering
+AI,Data Science,Work in healthcare,High,Genoa,University of Genoa,Machine Learning
+Arts,Data Science,Develop medical devices,Medium,Pisa,University of Pisa,Music
+Law,Graphic Design,Develop medical devices,High,Milan,Politecnico di Milano,Criminal Law
+Psychology,Biomedical Research,Conduct economic research,Medium,Pisa,University of Pisa,Clinical Psychology
+Engineering,Graphic Design,Work in healthcare,Low,Rome,LUISS Business School,Electrical Engineering
+Physics,Mechanical Engineering,Start a business,Low,Turin,Politecnico di Torino,Astrophysics
+Physics,Biomedical Research,Develop medical devices,Medium,Turin,Politecnico di Torino,Quantum Mechanics
+Business,Mechanical Engineering,Help people with mental health,Low,Venice,Ca' Foscari University of Venice,Business Administration
+Medicine,Mechanical Engineering,Conduct economic research,High,Venice,Ca' Foscari University of Venice,Pharmacology
+Law,Mechanical Engineering,Develop medical devices,Low,Bologna,University of Bologna,International Law
+Business,Legal Analysis,Help people with mental health,High,Florence,University of Florence,Finance
+Medicine,Legal Analysis,Design innovative products,Low,Pisa,University of Pisa,Surgery
+Arts,Python,Develop medical devices,High,Venice,Ca' Foscari University of Venice,Music
+Psychology,Legal Analysis,Develop medical devices,Low,Bologna,University of Bologna,Cognitive Neuroscience
+Psychology,Marketing,Develop medical devices,High,Naples,University of Naples Federico II,Clinical Psychology
+Biotechnology,Data Science,Work at a tech company,High,Naples,University of Naples Federico II,Biopharmaceuticals
+Physics,Data Science,Become a lawyer,Medium,Genoa,University of Genoa,Astrophysics
+Physics,Graphic Design,Develop medical devices,Medium,Milan,University of Milan,Quantum Mechanics
+Arts,Python,Work in healthcare,Low,Genoa,University of Genoa,Music
+Business,Counseling,Work at a tech company,Medium,Venice,Ca' Foscari University of Venice,Entrepreneurship
+Law,Data Science,Start a business,Low,Bologna,University of Bologna,Corporate Law
+Economics,Python,Develop medical devices,Low,Florence,University of Florence,Microeconomics
+Economics,Mechanical Engineering,Become a lawyer,Medium,Turin,University of Turin,Microeconomics
+Law,Python,Become a lawyer,High,Pisa,University of Pisa,Corporate Law
+Engineering,Financial Analysis,Conduct economic research,High,Florence,University of Florence,Mechanical Engineering
+Medicine,Python,Design innovative products,Low,Venice,Ca' Foscari University of Venice,Surgery
+Business,Python,Help people with mental health,Medium,Bologna,University of Bologna,Business Administration
+AI,Biomedical Research,Become a lawyer,Low,Naples,University of Naples Federico II,Artificial Intelligence
+Medicine,Python,Work in healthcare,Low,Rome,Roma Tre University,Surgery
+Physics,Marketing,Conduct economic research,High,Milan,University of Milan,Quantum Mechanics
+Biotechnology,Python,Work at a tech company,Low,Genoa,University of Genoa,Biopharmaceuticals
+Physics,Marketing,Start a business,Low,Florence,University of Florence,Astrophysics
+Arts,Counseling,Work in healthcare,Low,Bologna,University of Bologna,Music
+Business,Biomedical Research,Work at a tech company,Low,Bologna,University of Bologna,Entrepreneurship
+Business,Financial Analysis,Start a business,High,Florence,University of Florence,Entrepreneurship
+Economics,Biomedical Research,Become a lawyer,Low,Venice,Ca' Foscari University of Venice,Microeconomics
+Economics,Biomedical Research,Work in healthcare,Medium,Naples,University of Naples Federico II,Macroeconomics
+Physics,Financial Analysis,Work at a tech company,Medium,Rome,Roma Tre University,Quantum Mechanics
+Arts,Counseling,Design innovative products,Medium,Venice,Ca' Foscari University of Venice,Fine Arts
+Law,Data Science,Develop medical devices,Low,Bologna,University of Bologna,Criminal Law
+Economics,Data Science,Design innovative products,High,Rome,Sapienza University of Rome,Macroeconomics
+Business,Marketing,Develop medical devices,Low,Pisa,University of Pisa,Entrepreneurship
+AI,Python,Develop medical devices,Medium,Rome,Sapienza University of Rome,Data Science
+Arts,Python,Become a lawyer,Low,Turin,University of Turin,Fine Arts
+Biotechnology,Marketing,Develop medical devices,High,Rome,LUISS Business School,Biopharmaceuticals
+AI,Mechanical Engineering,Work in healthcare,Low,Turin,Politecnico di Torino,Artificial Intelligence
+Psychology,Financial Analysis,Start a business,High,Milan,Bocconi University,Cognitive Neuroscience
+Economics,Mechanical Engineering,Design innovative products,High,Florence,University of Florence,Microeconomics
+Law,Biomedical Research,Work at a tech company,Medium,Rome,Sapienza University of Rome,Corporate Law
+Physics,Legal Analysis,Start a business,Low,Venice,Ca' Foscari University of Venice,Quantum Mechanics
+Psychology,Biomedical Research,Work at a tech company,High,Naples,University of Naples Federico II,Clinical Psychology
+Psychology,Graphic Design,Work at a tech company,High,Naples,University of Naples Federico II,Cognitive Neuroscience
+Psychology,Marketing,Work in healthcare,Medium,Bologna,University of Bologna,Cognitive Neuroscience
+Physics,Data Science,Work in healthcare,Medium,Pisa,University of Pisa,Quantum Mechanics
+Law,Data Science,Conduct economic research,High,Milan,Politecnico di Milano,Criminal Law
+AI,Mechanical Engineering,Develop medical devices,Low,Naples,University of Naples Federico II,Data Science
+AI,Mechanical Engineering,Start a business,Medium,Florence,University of Florence,Machine Learning
+Physics,Mechanical Engineering,Become a lawyer,Medium,Naples,University of Naples Federico II,Quantum Mechanics
+AI,Financial Analysis,Develop medical devices,High,Pisa,University of Pisa,Machine Learning
+Medicine,Legal Analysis,Work in healthcare,Medium,Rome,Roma Tre University,Pharmacology
+Medicine,Counseling,Design innovative products,Medium,Bologna,University of Bologna,General Medicine
+Biotechnology,Counseling,Work in healthcare,High,Venice,Ca' Foscari University of Venice,Biopharmaceuticals
+Biotechnology,Financial Analysis,Develop medical devices,Medium,Milan,Bocconi University,Biopharmaceuticals
+Business,Graphic Design,Work at a tech company,Low,Naples,University of Naples Federico II,Business Administration
+Business,Mechanical Engineering,Start a business,Low,Turin,Politecnico di Torino,Business Administration
+Law,Data Science,Become a lawyer,Low,Pisa,University of Pisa,International Law
+Medicine,Counseling,Help people with mental health,Low,Turin,Politecnico di Torino,General Medicine
+Biotechnology,Counseling,Develop medical devices,Low,Turin,Politecnico di Torino,Genetic Engineering
+Engineering,Legal Analysis,Help people with mental health,Low,Milan,University of Milan,Mechanical Engineering
+Physics,Graphic Design,Develop medical devices,Low,Genoa,University of Genoa,Astrophysics
+Arts,Counseling,Design innovative products,Low,Turin,University of Turin,Design
+Physics,Financial Analysis,Conduct economic research,Low,Naples,University of Naples Federico II,Astrophysics
+Law,Data Science,Conduct economic research,Low,Florence,University of Florence,Criminal Law
+Business,Biomedical Research,Help people with mental health,Medium,Pisa,University of Pisa,Entrepreneurship
+Medicine,Data Science,Become a lawyer,Medium,Naples,University of Naples Federico II,Surgery
+Engineering,Counseling,Become a lawyer,Medium,Florence,University of Florence,Mechanical Engineering
+Biotechnology,Python,Start a business,Low,Venice,Ca' Foscari University of Venice,Biopharmaceuticals
+Law,Legal Analysis,Conduct economic research,High,Turin,Politecnico di Torino,Criminal Law
+Business,Marketing,Become a lawyer,Low,Florence,University of Florence,Finance
+AI,Data Science,Work in healthcare,Low,Milan,University of Milan,Machine Learning
+Psychology,Mechanical Engineering,Become a lawyer,High,Pisa,University of Pisa,Clinical Psychology
+Business,Financial Analysis,Work in healthcare,Low,Genoa,University of Genoa,Finance
+Medicine,Graphic Design,Work at a tech company,High,Turin,Politecnico di Torino,Pharmacology
+AI,Counseling,Start a business,Medium,Genoa,University of Genoa,Data Science
+Psychology,Python,Work at a tech company,Low,Bologna,University of Bologna,Cognitive Neuroscience
+Medicine,Mechanical Engineering,Design innovative products,High,Venice,Ca' Foscari University of Venice,General Medicine
+Arts,Mechanical Engineering,Design innovative products,Low,Bologna,University of Bologna,Design
+Medicine,Data Science,Work at a tech company,High,Pisa,University of Pisa,General Medicine
+Law,Biomedical Research,Help people with mental health,Medium,Milan,Politecnico di Milano,International Law
+Biotechnology,Marketing,Work in healthcare,Low,Rome,Roma Tre University,Genetic Engineering
+Psychology,Mechanical Engineering,Conduct economic research,Medium,Genoa,University of Genoa,Clinical Psychology
+Medicine,Data Science,Start a business,Medium,Naples,University of Naples Federico II,Pharmacology
+Economics,Counseling,Start a business,Medium,Naples,University of Naples Federico II,Microeconomics
+Economics,Counseling,Design innovative products,Low,Rome,Sapienza University of Rome,Macroeconomics
